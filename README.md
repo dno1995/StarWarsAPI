@@ -1,4 +1,4 @@
-# Star Wars API
+# Star Wars Box Office
 Using SQL I made calculations and created a table that contained the following:
 - Film Title
 - Day of the week
